@@ -2,6 +2,15 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+# Ignorar la carpeta .idea
+.idea/
+
+# Ignorar el archivo de configuración de IntelliJ
+*.iml
+
+# Ignorar archivos generados automáticamente en el build (si los hay)
+/target/
+/out/
 
 ### Eclipse ###
 .apt_generated
