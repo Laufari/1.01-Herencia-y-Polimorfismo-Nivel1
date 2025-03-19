@@ -26,7 +26,7 @@ y clases hijas `Viento`, `Cuerda`, y `Percusion` que implementan el método `toc
 
 1. Clona este repositorio a tu máquina local:
 2. 
-   git clone https://github.com/tu-usuario/1.01.-Herencia-y-Polimorfismo-Nivel1.git
+   git clone https://github.com/Laufari/1.01-Herencia-y-Polimorfismo-Nivel1.git
   Abre el proyecto en tu IDE (por ejemplo, IntelliJ IDEA).
   Asegúrate de que el JDK esté correctamente configurado en tu IDE.
   Si no tienes un proyecto Java configurado aún, crea uno nuevo en el IDE y luego agrega el código del repositorio.
