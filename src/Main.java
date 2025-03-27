@@ -4,9 +4,9 @@ public class Main
 {
     public static void main(String[] args)
     {
-        Instruments.windInstrument flute = new Instruments.windInstrument("Flute", 300.0);
-        Instruments.stringInstrument guitar = new Instruments.stringInstrument("Guitar", 250.0);
-        Instruments.percussionInstrument drum = new Instruments.percussionInstrument("Drum", 1500.0);
+        WindInstrument flute = new WindInstrument("Flute", 300.0);
+        StringInstrument guitar = new StringInstrument("Guitar", 250.0);
+        PercussionInstrument drum = new PercussionInstrument("Drum", 1500.0);
 
         flute.play();
         guitar.play();
